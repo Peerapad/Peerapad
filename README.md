@@ -1,5 +1,5 @@
 ## 🙏 Hi, I'm Peerapad 
-I'm a computer engineering student at [KMUTT](https://www.kmutt.ac.th/) 
+I'm a computer engineering student at [KMUTT](https://www.kmutt.ac.th/) with technology passionated, Interested in FrontEnd development and UX/UI design. I'm currently learning a whole-world computer technology.
 
 ## 💬 Experiences
 * Comcamp 33 Staff, I'm a Graphic Term 
