@@ -2,8 +2,9 @@
 I'm a computer engineering student at [KMUTT](https://www.kmutt.ac.th/) with technology passionated, Interested in FrontEnd development and UX/UI design. I'm currently learning a whole-world computer technology.
 
 ## 💬 Experiences
-* Comcamp 33 Staff, I'm a Graphic Term 
-* Pre Freshy CPE2022 Staff, I'm a Graphic Term 
+* Completed Google UX Design [Certificates](https://www.coursera.org/account/accomplishments/specialization/certificate/WCSPYVHZZQSY) from [Coursera](https://www.coursera.org/).
+* Comcamp 33 Staff, I'm a Graphic Term. 
+* Pre Freshy CPE2022 Staff, I'm a Graphic Term. 
 <a href="https://www.linkedin.com/in/peerapad/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://www.behance.net/peerapapadthaw">
