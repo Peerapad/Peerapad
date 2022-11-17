@@ -1,5 +1,5 @@
 ## 🙏 Hi, I'm Peerapad 
-I'm a computer engineering student at [KMUTT](https://www.kmutt.ac.th/) with technology passionated, Interested in FrontEnd development and UX/UI design. I'm currently learning about computer and technology.
+I'm a computer engineering student at [KMUTT](https://www.kmutt.ac.th/) with technology passionated, Interested in FrontEnd development and UX/UI design. I'm currently learning about computers and technology.
 
 ## 💬 Experiences
 * Completed Google UX Design [Certificates](https://www.coursera.org/account/accomplishments/specialization/certificate/WCSPYVHZZQSY) from [Coursera](https://www.coursera.org/).
